@@ -1,6 +1,6 @@
 # Encrypted by RAIN_SIRAWIT
 
-# แอบดหาแมมงหรอ
+# แอบดูหาแม่มึงหรอ
 
 # Discord : ! HyperJ#6479
 # Github- https://github.com/AJXyzzz/
